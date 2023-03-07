@@ -1,6 +1,4 @@
 {
-    "name": "Brute",
-    "description": "You're a heavy hitting machine with an arsenal of axes.",
     "powers": [
         "rpg_origins:no_time_to_rest",
         "origins:no_shield",

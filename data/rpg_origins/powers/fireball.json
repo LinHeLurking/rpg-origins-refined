@@ -1,6 +1,4 @@
 {
-    "name": "Fireball",
-    "description": "You can shoot a fireball in the direction your facing, intersting how spells can do that.",
     "type": "origins:fire_projectile",
     "entity_type": "minecraft:fireball",
     "cooldown": 1500,

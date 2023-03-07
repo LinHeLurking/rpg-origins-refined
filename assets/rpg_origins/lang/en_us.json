@@ -1,0 +1,94 @@
+{
+    "origin.rpg_origins.archer.name": "Archer",
+    "origin.rpg_origins.archer.description": "You're great with bows and crossbows, but it comes at a cost.",
+
+    "origin.rpg_origins.brute.name": "Brute",
+    "origin.rpg_origins.brute.description": "You're a heavy hitting machine with an arsenal of axes.",
+
+    "origin.rpg_origins.cleric.name": "Cleric",
+    "origin.rpg_origins.cleric.description": "You're there to heal and help others. You'll rarely be seen directly attacking others.",
+
+    "origin.rpg_origins.knight.name": "Knight",
+    "origin.rpg_origins.knight.description": "You're a powerful knight. You're used to being on the front line in battle and are always ready to make sacrifices.",
+
+    "origin.rpg_origins.mage.name": "Mage",
+    "origin.rpg_origins.mage.description": "You're a mage who can always find the magic in things.",
+
+    "origin.rpg_origins.thief.name": "Thief",
+    "origin.rpg_origins.thief.description": "You're sneaky, and fast. Always ready to steal from those you dislike.",
+
+    "power.rpg_origins.better_unnoticed.name": "Better Unnoticed",
+    "power.rpg_origins.better_unnoticed.description": "You'd rather not be seen, since you sacrifice health for speed. You have 2 less max hearts.",
+
+    "power.rpg_origins.brewer_jumpboost.name": "Brewer",
+    "power.rpg_origins.brewer_jumpboost.description": "You are experienced in potion making, so speed, regeneration, jump boost, and strength last longer.",
+
+    "power.rpg_origins.brewer_regeneration.name": "Brewer",
+    "power.rpg_origins.brewer_regeneration.description": "You are experienced in potion making, so speed, regeneration, jump boost, and strength last 1.5 times longer.",
+
+    "power.rpg_origins.brewer_speed.name": "Brewer",
+    "power.rpg_origins.brewer_speed.description": "You are experienced in potion making, so speed, regeneration, jump boost, and strength last 1.5 times longer.",
+
+    "power.rpg_origins.brewer_strength.name": "Brewer",
+    "power.rpg_origins.brewer_strength.description": "You are experienced in potion making, so speed, regeneration, jump boost, and strength last 1.5 times longer.",
+
+    "power.rpg_origins.fastcure.name": "Fast Cure",
+    "power.rpg_origins.fastcure.description": "Your immune to poison, weakness, and slowness.",
+
+    "power.rpg_origins.fireball.name": "Fireball",
+    "power.rpg_origins.fireball.description": "You can shoot a fireball in the direction your facing, intersting how spells can do that.",
+
+    "power.rpg_origins.heal_pool.name": "Heal Pool",
+    "power.rpg_origins.heal_pool.description": "Summon a pool of healing on command that effects every mob.",
+
+    "power.rpg_origins.inexperienced.name": "Inexperienced",
+    "power.rpg_origins.inexperienced.description": "Due to only being trained for using a bow, you can barley use a sword.",
+
+    "power.rpg_origins.marksman.name": "Marksman",
+    "power.rpg_origins.marksman.description": "You're a trained professional in bows and crossbows, and deal significantly more damage with them.",
+
+    "power.rpg_origins.not_the_strongest.name": "Not the strongest",
+    "power.rpg_origins.not_the_strongest.description": "You aren't the strongest of the bunch, so you have 3 less max hearts.",
+
+    "power.rpg_origins.no_time_to_rest.name": "No Time To Rest",
+    "power.rpg_origins.no_time_to_rest.description": "You can only heal naturally while you're sprinting.",
+
+    "power.rpg_origins.prepared.name": "Prepared",
+    "power.rpg_origins.prepared.description": "You're always prepared, so you start the game with a free shield.",
+
+    "power.rpg_origins.select_targets_strong.name": "Select Targets",
+    "power.rpg_origins.select_targets_strong.description": "You are stronger against mobs with a great amount of health, but are weaker against mobs with lower health.",
+
+    "power.rpg_origins.select_targets_weak.name": "Select Targets",
+    "power.rpg_origins.select_targets_weak.description": "You are stronger against mobs with a great amount of health, but are weaker against mobs with lower health.",
+
+    "power.rpg_origins.speedy.name": "Speedy",
+    "power.rpg_origins.speedy.description": "You're faster than normal.",
+
+    "power.rpg_origins.stealthy.name": "Stealthy",
+    "power.rpg_origins.stealthy.description": "Whenever you crouch, you can't be seen.",
+
+    "power.rpg_origins.stealthy_invi.name": "Stealthy",
+    "power.rpg_origins.stealthy_invi.description": "Whenever you crouch, you can't be seen.",
+
+    "power.rpg_origins.sword.name": "Durable",
+    "power.rpg_origins.sword.description": "You are more durable than others, and you always take less damage.",
+
+    "power.rpg_origins.thefty.name": "Thefty",
+    "power.rpg_origins.thefty.description": "Whenever you kill a villager (Why would you) you can steal some emeralds.",
+
+    "power.rpg_origins.trained.name": "Trained",
+    "power.rpg_origins.trained.description": "You've trained so hard, no matter what, you deal more damage.",
+
+    "power.rpg_origins.uneasy_alliance.name": "Uneasy Alliance",
+    "power.rpg_origins.uneasy_alliance.description": "You and the pillagers have known eachother, but not well enough for them to let you live. Whenever you kill an iron golem in a village, it'll start a raid.",
+
+    "power.rpg_origins.unwieldly.name": "Unwieldly",
+    "power.rpg_origins.unwieldly.description": "Since you're only trained in magic, all damage you deal is weaker.",
+
+    "power.rpg_origins.villagefriendly.name": "Village Friendly",
+    "power.rpg_origins.villagefriendly.description": "Since your the same class as one of the villagers, you're favored by them.",
+
+    "power.rpg_origins.water_walk.name": "Water walk",
+    "power.rpg_origins.water_walk.description": "You've learned to harness the power of the heart of the sea, so while you hold it, you can walk on water."
+}

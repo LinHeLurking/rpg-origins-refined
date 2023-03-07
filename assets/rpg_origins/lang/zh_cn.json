@@ -1,0 +1,94 @@
+{
+    "origin.rpg_origins.archer.name": "射手",
+    "origin.rpg_origins.archer.description": "你擅长使用弓和弩，但这是有代价的。",
+
+    "origin.rpg_origins.brute.name": "野蛮人",
+    "origin.rpg_origins.brute.description": "你是一台拥有大量斧头的重击机器。",
+
+    "origin.rpg_origins.cleric.name": "牧师",
+    "origin.rpg_origins.cleric.description": "你在那里是为了治愈和帮助他人。",
+
+    "origin.rpg_origins.knight.name": "骑士",
+    "origin.rpg_origins.knight.description": "你是一个强大的骑士。",
+
+    "origin.rpg_origins.mage.name": "法师",
+    "origin.rpg_origins.mage.description": "你是一个总能在事物中发现魔力的法师。",
+
+    "origin.rpg_origins.thief.name": "盗贼",
+    "origin.rpg_origins.thief.description": "你很狡猾，而且速度很快。",
+
+    "power.rpg_origins.better_unnoticed.name": "更强隐蔽",
+    "power.rpg_origins.better_unnoticed.description": "你宁愿不被人看到，因为你为了速度而牺牲了健康。",
+
+    "power.rpg_origins.brewer_jumpboost.name": "酿造师",
+    "power.rpg_origins.brewer_jumpboost.description": "你在制作药水方面经验丰富，因此速度、再生、跳跃提升和力量持续时间更长。",
+
+    "power.rpg_origins.brewer_regenerati.name": "酿造师",
+    "power.rpg_origins.brewer_regenerati.description": "你在制作药水方面经验丰富，所以速度、再生、跳跃提升和力量持续时间延长 1.5 倍。",
+
+    "power.rpg_origins.brewer_speed.name": "酿造师",
+    "power.rpg_origins.brewer_speed.description": "你在制作药水方面经验丰富，所以速度、再生、跳跃提升和力量持续时间延长 1.5 倍。",
+
+    "power.rpg_origins.brewer_strength.name": "酿造师",
+    "power.rpg_origins.brewer_strength.description": "你在制作药水方面经验丰富，所以速度、再生、跳跃提升和力量持续时间延长 1.5 倍。",
+
+    "power.rpg_origins.fastcure.name": "快速治疗",
+    "power.rpg_origins.fastcure.description": "你对毒素、虚弱和缓慢免疫。",
+
+    "power.rpg_origins.fireball.name": "火球",
+    "power.rpg_origins.fireball.description": "你可以朝你面对的方向发射一个火球，有趣的是咒语是如何做到这一点的。",
+
+    "power.rpg_origins.heal_pool.name": "治疗池",
+    "power.rpg_origins.heal_pool.description": "根据命令召唤一个治疗池，影响周围所有生物。",
+
+    "power.rpg_origins.inexperienced.name": "经验缺乏",
+    "power.rpg_origins.inexperienced.description": "由于只接受过使用弓的训练，所以不能使用剑。",
+
+    "power.rpg_origins.marksman.name": "射手",
+    "power.rpg_origins.marksman.description": "你是训练有素的弓箭专家，用它们造成的伤害要高得多。",
+
+    "power.rpg_origins.not_the_strongest.name": "并非最强",
+    "power.rpg_origins.not_the_strongest.description": "你不是这群人中最强的，所以你的最大心数少了 3 颗。",
+
+    "power.rpg_origins.no_time_to_rest.name": "无暇休息",
+    "power.rpg_origins.no_time_to_rest.description": "您只能在冲刺时自然愈合。",
+
+    "power.rpg_origins.prepared.name": "做好准备",
+    "power.rpg_origins.prepared.description": "你总是做好准备，所以你开始游戏时会获得一个免费的盾牌。",
+
+    "power.rpg_origins.select_targets_strong.name": "选择目标",
+    "power.rpg_origins.select_targets_strong.description": "你对付生命值高的生物时更强，但对付生命值较低的生物时则较弱。",
+
+    "power.rpg_origins.select_targets_weak.name": "选择目标",
+    "power.rpg_origins.select_targets_weak.description": "你对付生命值高的生物时更强，但对付生命值较低的生物时则较弱。",
+
+    "power.rpg_origins.speedy.name": "疾速",
+    "power.rpg_origins.speedy.description": "你比平常快。",
+
+    "power.rpg_origins.stealthy.name": "隐身",
+    "power.rpg_origins.stealthy.description": "当你蹲下时，你就看不见了。",
+
+    "power.rpg_origins.stealthy_invi.name": "隐身",
+    "power.rpg_origins.stealthy_invi.description": "当你蹲下时，你就看不见了。",
+
+    "power.rpg_origins.sword.name": "耐久",
+    "power.rpg_origins.sword.description": "你比其他人更耐久，而且你总是受到更少的伤害。",
+
+    "power.rpg_origins.thefty.name": "盗窃",
+    "power.rpg_origins.thefty.description": "每当你杀死一个村民（你为什么要这样做）时，你都可以偷一些绿宝石。",
+
+    "power.rpg_origins.trained.name": "训练有素",
+    "power.rpg_origins.trained.description": "你训练得如此刻苦，无论如何，你造成的伤害更大。",
+
+    "power.rpg_origins.uneasy_alliance.name": "不安联盟",
+    "power.rpg_origins.uneasy_alliance.description": "你和掠夺者彼此认识，但还不足以让他们让你活下去。",
+
+    "power.rpg_origins.unwieldly.name": "笨拙",
+    "power.rpg_origins.unwieldly.description": "因为你只受过魔法训练，所以你造成的所有伤害都很弱。",
+
+    "power.rpg_origins.villagefriendly.name": "村庄友好",
+    "power.rpg_origins.villagefriendly.description": "因为你和其中一个村民同班，所以你很受他们的青睐。",
+
+    "power.rpg_origins.water_walk.name": "水上行走",
+    "power.rpg_origins.water_walk.description": "你已经学会驾驭海洋之心的力量，所以当你持有它时，你可以在水面上行走。"
+}

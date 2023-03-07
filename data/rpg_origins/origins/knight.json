@@ -1,6 +1,4 @@
 {
-    "name": "Knight",
-    "description": "You're a powerful knight. You're used to being on the front line in battle and are always ready to make sacrifices.",
     "powers": [
         "rpg_origins:sword",
         "origins:more_exhaustion",

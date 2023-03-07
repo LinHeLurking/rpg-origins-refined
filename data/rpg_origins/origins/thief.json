@@ -1,6 +1,4 @@
 {
-    "name": "Thief",
-    "description": "You're sneaky, and fast. Always ready to steal from those you dislike.",
     "powers": [
         "rpg_origins:speedy",
         "rpg_origins:stealthy",

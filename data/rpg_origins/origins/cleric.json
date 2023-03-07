@@ -1,6 +1,4 @@
 {
-    "name": "Cleric",
-    "description": "You're there to heal and help others. You'll rarely be seen directly attacking others.",
     "powers": [
         "rpg_origins:villagefriendly",
         "rpg_origins:not_the_strongest",
