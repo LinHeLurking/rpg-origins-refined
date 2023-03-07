@@ -1,0 +1,17 @@
+{
+    "name": "Stealthy",
+    "description": "Whenever you crouch, you can't be seen.",
+    "hidden": true,
+    "condition": {
+        "type": "origins:sneaking"
+    },
+    "type": "origins:stacking_status_effect",
+    "tick_rate": 10,
+    "effect": {
+        "effect": "minecraft:invisiblity",
+        "duration": 1,
+        "amplifier": 0,
+        "show_particles": false,
+        "show_icon": false
+    }
+}

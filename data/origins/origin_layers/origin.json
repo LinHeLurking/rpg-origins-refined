@@ -1,0 +1,11 @@
+{
+    "origins": [
+        "rpg_origins:knight",
+        "rpg_origins:mage",
+        "rpg_origins:cleric",
+        "rpg_origins:archer",
+        "rpg_origins:thief",
+        "rpg_origins:brute"
+    ],
+    "enabled": true
+}

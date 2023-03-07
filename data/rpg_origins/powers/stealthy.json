@@ -1,0 +1,9 @@
+{
+    "name": "Stealthy",
+    "description": "Whenever you crouch, you can't be seen.",
+    "condition": {
+        "type": "origins:sneaking"
+    },
+    "type": "origins:invisibility",
+    "render_armor": false
+}

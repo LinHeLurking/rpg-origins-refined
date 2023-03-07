@@ -1,0 +1,17 @@
+{
+    "schemaVersion": 1,
+    "environment": "*",
+    "depends": {
+        "fabric-api-base": "*",
+        "fabric": "*",
+        "minecraft": "1.19.x",
+        "origins": ">=1.0.0"
+    },
+    "name": "RPG Origins",
+    "id": "rpg_origins",
+    "version": "1.2.2",
+    "description": "Adds 6 new origins based off of RPG Classes.",
+    "license": "MIT",
+    "pack_format": 10,
+    "icon": "pack.png"
+}

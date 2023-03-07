@@ -1,0 +1,12 @@
+{
+    "name": "Prepared",
+    "description": "You're always prepared, so you start the game with a free shield.",
+    "condition": {
+        "type": "origins:and"
+    },
+    "type": "origins:starting_equipment",
+    "stack": {
+        "item": "minecraft:shield",
+        "slot": 40
+    }
+}

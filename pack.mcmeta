@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "name": "RPG Origins",
+        "id": "rpg_origins",
+        "pack_format": 10,
+        "description": "Adds 6 new origins based off of RPG Classes."
+    }
+}

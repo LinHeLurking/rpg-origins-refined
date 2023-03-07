@@ -1,0 +1,13 @@
+{
+    "name": "Archer",
+    "description": "You're great with bows and crossbows, but it comes at a cost.",
+    "powers": [
+        "rpg_origins:marksman",
+        "rpg_origins:not_the_strongest",
+        "rpg_origins:inexperienced"
+    ],
+    "icon": {
+        "item": "minecraft:bow"
+    },
+    "impact": 2
+}
